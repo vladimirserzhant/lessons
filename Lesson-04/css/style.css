@@ -1,0 +1,119 @@
+
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Regular.woff2") format("woff2"), url("../fonts/Larsseit-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "lato";
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "lato";
+   src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+   font-display:swap;
+   font-weight:700;
+   font-style:normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+   font-display:swap;
+   font-weight:900;
+   font-style:normal;
+}
+
+/*body{
+   font-family: "larsseit";
+   font-weight: 400;
+   font-style: normal;
+}*/
+
+h1 {
+   font-family:"lato";
+   font-weight:900;
+   font-size: 48px ;
+}
+h2 {
+   color:blue;
+   font-family: "Roboto";
+   font-weight: 700;
+}
+.content{
+   color:blueviolet;
+   font-family: "lato" ;
+}
+.text {
+   
+   font-family: "Larsseit";
+   font-size: 20px;
+   
+}
+.content-list{
+   font-family: "lato";
+   font-size: 30px;
+   font-weight: 400;
+}
+.text,
+.text-color{
+   color: brown
+}
+.middle-ages-period .text-color{
+   font-family: "Roboto";
+   font-weight: 400;
+}
+.content .color-li{
+   font-family: "lato";
+   font-weight: 400;
+   color:coral;
+
+}
+.pome-period .text-color{
+   font-family: "lato";
+   font-weight: 400;
+}
+.renesans-period .text{
+   font-family: "roboto";
+   font-size: 15px;
+   color:darkgreen
+}
+#XX—XXI{
+   font-family: "Roboto";
+   font-size: 30px;
+   font-weight: 700;
+   color: darkorchid;
+}
+footer{
+   font-family: "roboto";
+   font-size: 15px;
+   color: darkgoldenrod;
+}
+header{
+   font-family: "roboto";
+   font-size: 20px;
+   color: darkgoldenrod;
+}
+.to-link{
+   color:rgb(186, 192, 10);
+}
