@@ -1,0 +1,162 @@
+
+
+
+
+@font-face {
+   font-family: "Migha";
+   src: url("../fonts/Migha-MediumCondensedSlant.woff2") format("woff2"),
+      url("../fonts/Migha-MediumCondensedSlant.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: italic;
+
+}
+@font-face {
+   font-family: "Migha";
+   src: url("../fonts/Migha-BoldCondensedCNTRSlant.woff2") format("woff2"),
+   url("../fonts/Migha-BoldCondensedCNTRSlant.woff") format("woff");
+   font-display: swap;
+   font-weight: bold;
+   font-style: italic;
+
+}
+@font-face {
+   font-family: "Updock";
+   src: url("../fonts/Updock-Regular.woff2") format("woff2"),
+      url("../fonts/Updock-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: Normal;
+   font-style: normal;
+
+}
+body{
+   line-height: 1;
+   font-family: 'Oswald', 'Roboto', 'Open Sans', sans-serif;
+   font-size: 17px;
+   letter-spacing: 0.32px;
+   
+}
+header{
+   padding: 30px 30px 20px;
+   margin-bottom: 10px;
+   text-decoration: underline;
+}
+footer{
+   padding: 30px 30px 20px;
+   margin-bottom: 10px;
+   font-family: "Migha";
+   font-display: swap;
+   font-weight: 500;
+   font-style: italic;
+   color: forestgreen;
+}
+p {
+   padding: 0px 20px;
+   margin-bottom: 10px;
+   font-size: 20px;
+}
+
+
+.english{
+   font-family: "Updock", sans-serif;
+   font-weight: Normal;
+   font-size: 20px;
+   font-style: normal;
+   color: blueviolet;
+}
+img {
+   padding: 10px 20px 10px 10px;
+   margin-left: 40px;
+   margin-bottom: 0px;
+}
+.description{
+   font-family:"Migha";
+   font-display: swap;
+   font-weight: 500;
+   font-style: italic;
+   color: darkblue;
+   padding: 10px 20px 20px 10px;
+   margin-left: 40px;
+   margin-bottom: 10px;
+}
+.article-title{
+   font-family: "Migha" serif;
+   font-display: swap;
+   font-weight: bold;
+   font-style: italic;
+   font-size: 42px;
+   color: brown;
+   text-align: center;
+   text-transform: uppercase;
+
+}
+.content{
+   font-style: italic;
+   font-weight: 400;
+   padding: 30px 30px 20px;
+   margin-bottom: 10px;
+
+}
+.content p{
+   text-transform: uppercase;
+   text-shadow: 1px 2px 1px red;
+}
+.content-info-title{
+   font-family: "Migha";
+   font-weight: bold;
+   font-style: italic;
+   font-size: 36px;
+   padding: 40px 70px 20px;
+   margin-bottom: 10px;
+   text-shadow: 3px 2px 1px rgb(10, 234, 21)
+
+}
+
+
+
+.etymology p{
+   text-shadow: 5px 5px 2px greenyellow;
+
+
+}
+.history .content-info-text{
+   text-align: right;
+
+}
+.history .text-dekoration{
+   letter-spacing: 3px;
+}
+
+.geography .text-dekoration{
+   letter-spacing: 2px;
+
+}
+
+.climate .text-dekoration{
+   text-decoration: line-through;
+
+}
+.climate .text-transform{
+   word-spacing: 10px;
+}
+
+.architecture .text-transform{
+   text-transform: uppercase;
+
+}
+.content-info-text {
+   padding: 30px 30px 15px;
+   margin-bottom: 10px;
+   text-align: justify;
+   text-indent: 20px;
+   line-height: 1.5;
+
+}
+.content-info-text a{
+   color: darkgreen;
+   text-decoration: overline;
+   padding: 0px 30px 15px;
+   margin-bottom: 10px;
+   
+}
+
